@@ -1007,7 +1007,7 @@ img {
 /* Card color schemes with enhanced gradients */
 
 .subjects .item .card-1 {
-    background: linear-gradient(135deg, #eb0808 0%, #c83901 30%, #c90909 60%, #ae4d4d 100%);
+    background: linear-gradient(135deg, #FFF4D6 0%, #FEECBC 30%, #ebb935 100%);
     border-top: 3px solid #ebb935;
 }
 
@@ -1901,4 +1901,5 @@ img {
 
 .fa-rotate-180 {
     transform: rotate(180deg);
+
 }
